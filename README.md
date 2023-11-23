@@ -1,5 +1,7 @@
 # JavaScript
-Why Javascrip and what is the Future of This programming Language ?!..... 
+Why Javascript ? 
+and what is the Future of This programming Language ?!..... 
+--------------------------------------------------------------------------------------------------------------------------------------
 Our Modern life are coded in some form of JavaScript.
 
 The earliest incarnations of JavaScript were developed in the late 1990s for the Netscape Navigator Web browser. At the time, Web pages were static, offering little user interaction beyond clicking links and loading new pages. For the first time, JavaScript enabled animation, adaptive content and form validation on the page.
